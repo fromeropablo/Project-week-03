@@ -1,4 +1,7 @@
 # ScrAPIng: A marvellous trip across the best two basketball leagues in the world.
+
+<img src="https://media.giphy.com/media/3o6YglDndxKdCNw7q8/giphy.gif" width="500" align="center">
+
 Everyone likes NBA. The best players are there and the budgets from the franchises are so high compare to the clubs in Europe. Doing some scraping and calling an API, we will be able to find some interesting curiosities about NBA and the Spanish League. If you like basketball, you have found the correct repository. Enjoy!
 
 ## Importing libraries and files
